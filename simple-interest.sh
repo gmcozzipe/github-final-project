@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Giovanni Maltisotto aka gmcozzipe
+   # gmcozzipe aka Giovanni Maltisotto
 
    # Input:
    # p, principal amount
